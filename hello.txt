@@ -1,2 +1,8 @@
 hii
 1st commit
+<<<<<<< HEAD
+3rd commit
+test
+=======
+3rd commit
+>>>>>>> e9c8bf1 (3rd commit)
